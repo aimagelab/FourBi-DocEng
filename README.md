@@ -1,6 +1,8 @@
 # FourBi
 
-We provide the checkpoint for the [model](https://drive.google.com/file/d/1qv5f8bC5c73ud2zmIK8eSWYSDRpz9EWP/view?usp=sharing)
+We provide the checkpoint for the model:
+ - [Mirror 1](https://github.com/aimagelab/FourBi-DocEng/releases/download/checkpoint/2616.pth)
+ - [Mirror 2](https://drive.google.com/file/d/1qv5f8bC5c73ud2zmIK8eSWYSDRpz9EWP/view?usp=sharing)
  
 To run the model on a folder with images, run the following command:
 ```
