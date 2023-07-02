@@ -20,6 +20,7 @@ python binarize.py <path to checkpoint> --src <path to the test images folder>
 --dst <path to the output folder> --batch_size <batch size>
 ```
 The default batch size is 4. Consider increasing the batch size to speed up the binarization process.
+
 To run the model on the CPU, just change the `--device` argument (default `cuda`)
 ```
 python binarize.py <path to checkpoint> --src <path to the test images folder> 
